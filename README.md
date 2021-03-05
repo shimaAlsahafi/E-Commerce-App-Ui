@@ -1,4 +1,4 @@
-# shopping
+# Furniture E-Commerce App Ui
 
 A new Flutter application.
 
