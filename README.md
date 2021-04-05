@@ -1,14 +1,5 @@
 # Furniture E-Commerce App Ui
 
-A new Flutter application.
-
-
-
-
-
-
-
-
 <div align="center">
         <img width="40%" src='https://user-images.githubusercontent.com/71667762/113622719-05055c00-9666-11eb-9e4f-ae26b12eff04.png', alt="About screen" title="About screen"</img> ,
         ,
