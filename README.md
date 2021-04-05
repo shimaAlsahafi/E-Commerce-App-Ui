@@ -2,9 +2,12 @@
 
 A new Flutter application.
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2021-04-05 at 22 19 13,width="100" height="100"](https://user-images.githubusercontent.com/71667762/113622719-05055c00-9666-11eb-9e4f-ae26b12eff04.png),
+,
 
-
+<div align="center">
+        <img width="45%" src=![Simulator Screen Shot - iPhone 11 Pro Max - 2021-04-05 at 22 19 13](https://user-images.githubusercontent.com/71667762/113622719-05055c00-9666-11eb-9e4f-ae26b12eff04.png) alt="About screen" title="About screen"</img>
+       
+</div>
 
 ## Getting Started
 
