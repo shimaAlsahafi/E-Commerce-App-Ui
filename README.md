@@ -2,8 +2,7 @@
 
 <div align="center">
         <img width="30%" src='https://user-images.githubusercontent.com/71667762/113622719-05055c00-9666-11eb-9e4f-ae26b12eff04.png', alt="About screen" title="About screen"</img> 
-        
-     <img width="30%" src='https://user-images.githubusercontent.com/71667762/113637388-2887d100-967d-11eb-9644-cbf42cc9220a.png', alt="About screen" title="About screen"</img>,
+        <img width="30%" src='https://user-images.githubusercontent.com/71667762/113637388-2887d100-967d-11eb-9644-cbf42cc9220a.png', alt="About screen" title="About screen"</img>,
     <img width="30%" src='https://user-images.githubusercontent.com/71667762/113637393-2cb3ee80-967d-11eb-87d4-0de457dcb612.png', alt="About screen" title="About screen"</img>
         <img width="30%" src='https://user-images.githubusercontent.com/71667762/113637429-3d646480-967d-11eb-95bc-3d80302e8344.png', alt="About screen" title="About screen"</img>
         
